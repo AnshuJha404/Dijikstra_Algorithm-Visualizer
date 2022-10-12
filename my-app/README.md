@@ -1,4 +1,4 @@
-Dijikstra_Algorithm-Visualizer
+#Dijikstra_Algorithm-Visualizer
 
 A pathfinding visualizer for the Dijkstra's Algorithm using React, JavaScript, and css.
 It allows for a start node and end node in a grid and once the "Visualize Dijkstra's Algorithm" button is pressed .
